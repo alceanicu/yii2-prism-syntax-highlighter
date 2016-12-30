@@ -1,0 +1,30 @@
+{
+  "name": "alcea/yii2-prism-syntax-highlighter",
+  "type": "yii2-extension",
+  "description": "Prism Syntax Highlighter for Yii2",
+  "keywords": [
+    "syntaxhighlighter",
+    "yii2",
+    "php",
+    "prism"
+  ],
+  "license": "MIT License",
+  "support": {
+    "source": "https://github.com/alceanicu/yii2-prism-syntax-highlighter"
+  },
+  "authors": [
+    {
+      "name": "Niku Alcea",
+      "email": "nicu.alcea@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "alcea\\yii2PrismSyntaxHighlighter\\": ""
+    }
+  }
+}
