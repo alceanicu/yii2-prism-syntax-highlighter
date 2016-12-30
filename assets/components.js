@@ -574,14 +574,22 @@ var components = {
             "path": "plugins/{id}/prism-{id}",
             "link": "plugins/{id}/"
         },
-        "line-highlight": "Line Highlight",
+        "line-highlight": {
+            "title": "Line Highlight"
+        },
         "line-numbers": {
             "title": "Line Numbers",
             "owner": "kuba-kubula"
         },
-        "show-invisibles": "Show Invisibles",
-        "autolinker": "Autolinker",
-        "wpd": "WebPlatform Docs",
+        "show-invisibles": {
+            "title": "Show Invisibles"
+        },
+        "autolinker": {
+            "title": "Autolinker"
+        },
+        "wpd": {
+            "title": "WebPlatform Docs"
+        },
         "custom-class": {
             "title": "Custom Class",
             "owner": "dvkndn"
@@ -655,7 +663,9 @@ var components = {
             "title": "Command Line",
             "owner": "chriswells0"
         },
-        "unescaped-markup": "Unescaped Markup",
+        "unescaped-markup": {
+            "title": "Unescaped Markup"
+        },
         "normalize-whitespace": {
             "title": "Normalize Whitespace",
             "owner": "zeitgeist87",
