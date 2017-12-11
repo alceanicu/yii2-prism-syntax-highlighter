@@ -32,8 +32,17 @@ PrismSyntaxHighlighter::widget([
     'languages' => ['php', 'php-extras', 'css'],
     'plugins' => ['copy-to-clipboard']
 ]);
- 
-echo Markdown::process($model->xxx, 'gfm-comment');
+
+$md = <<<MD_FILE
+'''js
+$(document).on('focusout', 'input[name="test"]', function(event) {
+	event.preventDefault();
+	// do ...
+});
+'''
+MD_FILE;
+
+echo Markdown::process($md, 'gfm-comment');
 ```
 
 ### PrismJs page http://prismjs.com/download.html
