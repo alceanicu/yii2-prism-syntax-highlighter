@@ -1,4 +1,5 @@
 [![Latest Stable Version](https://poser.pugx.org/alcea/yii2-prism-syntax-highlighter/v/stable.svg)](https://packagist.org/packages/alcea/yii2-prism-syntax-highlighter) [![Total Downloads](https://poser.pugx.org/alcea/yii2-prism-syntax-highlighter/downloads.svg)](https://packagist.org/packages/alcea/yii2-prism-syntax-highlighter) [![Latest Unstable Version](https://poser.pugx.org/alcea/yii2-prism-syntax-highlighter/v/unstable.svg)](https://packagist.org/packages/alcea/yii2-prism-syntax-highlighter) [![License](https://poser.pugx.org/alcea/yii2-prism-syntax-highlighter/license.svg)](https://packagist.org/packages/alcea/yii2-prism-syntax-highlighter)
+# This package is no longer maintained
 
 # YII2 Prism Syntax Highlighter
 Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind. It’s used in thousands of websites, including some of those you visit daily.
